@@ -1,4 +1,4 @@
-package com.cleanarchitectkotlinflowhiltsimplestway.domain
+package com.cleanarchitectkotlinflowhiltsimplestway.domain.usecases
 
 import com.google.gson.JsonObject
 import com.cleanarchitectkotlinflowhiltsimplestway.data.APIs

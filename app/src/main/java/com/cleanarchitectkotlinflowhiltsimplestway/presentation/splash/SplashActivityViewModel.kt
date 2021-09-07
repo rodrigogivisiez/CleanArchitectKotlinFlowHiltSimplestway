@@ -1,7 +1,7 @@
 package com.cleanarchitectkotlinflowhiltsimplestway.presentation.splash
 
 import androidx.lifecycle.ViewModel
-import com.cleanarchitectkotlinflowhiltsimplestway.domain.SampleUseCase
+import com.cleanarchitectkotlinflowhiltsimplestway.domain.usecases.SampleUseCase
 import com.cleanarchitectkotlinflowhiltsimplestway.presentation.State
 import com.cleanarchitectkotlinflowhiltsimplestway.utils.Utils
 import dagger.hilt.android.lifecycle.HiltViewModel
